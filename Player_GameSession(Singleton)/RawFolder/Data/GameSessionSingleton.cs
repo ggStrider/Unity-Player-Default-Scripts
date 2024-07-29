@@ -15,7 +15,8 @@ namespace Data
         [SerializeField] private PlayerData _data;
         
         /// <summary>
-        /// Data to get (readonly). This data contains _data
+        /// Data to get (readonly). 
+        /// This property represents _data (Actually data).
         /// </summary>
         public PlayerData Data => _data;
         
