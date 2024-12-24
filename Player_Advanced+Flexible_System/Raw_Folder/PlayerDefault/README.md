@@ -1,0 +1,1 @@
+I highly recommend using Zenject instead of my self-written PlayerInstaller component
